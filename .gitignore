@@ -1,0 +1,9 @@
+# Private API credentials
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
